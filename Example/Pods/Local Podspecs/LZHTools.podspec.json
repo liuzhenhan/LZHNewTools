@@ -1,0 +1,27 @@
+{
+  "name": "LZHTools",
+  "version": "1.0.0",
+  "summary": "A short description of LZHTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lzhself/LZHTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lzhself": "497108685@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lzhself/LZHTools.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "LZHTools/Classes/**/*",
+  "resource_bundles": {
+    "LZHTools": [
+      "LZHTools/Assets/**/*"
+    ]
+  }
+}

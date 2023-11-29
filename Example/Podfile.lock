@@ -1,0 +1,16 @@
+PODS:
+  - LZHTools (1.0.0)
+
+DEPENDENCIES:
+  - LZHTools (from `../`)
+
+EXTERNAL SOURCES:
+  LZHTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZHTools: 32df90c78aad3efdd4f83bd9753ef06d60a49ebc
+
+PODFILE CHECKSUM: 9e53cbcf0f316315a16ef46aeaf43887632e0d57
+
+COCOAPODS: 1.14.2

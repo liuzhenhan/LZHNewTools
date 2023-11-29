@@ -1,0 +1,6 @@
+framework module LZHTools {
+  umbrella header "LZHTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
